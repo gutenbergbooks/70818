@@ -1,4 +1,4 @@
-﻿The Project Gutenberg eBook of A travers les cactus, by Édouard de
+The Project Gutenberg eBook of A travers les cactus, by Édouard de
 Perrodil
 
 This eBook is for the use of anyone anywhere in the United States and
@@ -10,11 +10,12 @@ will have to check the laws of the country where you are located before
 using this eBook.
 
 Title: A travers les cactus
-       Traversée de l'Algérie à bicyclette
+       Traversée de l’Algérie à bicyclette
 
 Author: Édouard de Perrodil
 
 Release Date: May 20, 2023 [eBook #70818]
+Last Updated: September 10, 2023
 
 Language: French
 
@@ -24,7 +25,6 @@ Produced by: Laurent Vogel and the Online Distributed Proofreading Team
              France (BnF/Gallica))
 
 *** START OF THE PROJECT GUTENBERG EBOOK A TRAVERS LES CACTUS ***
-
 
 
 
@@ -2517,7 +2517,7 @@ eau! Bonne eau!
 Inutile de dire si on se précipita alors, la bouche ouverte, vers cette
 bienheureuse fontaine rencontrée dans la montagne et qui avait été de
 notre part l’objet d’un scrupule d’autant plus étrange que cette idée
-même ne ne nous était pas venue en buvant de l’eau des petits torrents
+même ne nous était pas venue en buvant de l’eau des petits torrents
 trouvés le long du chemin.
 
 Avant de parvenir au sommet de la longue côte, nous allions nous livrer
@@ -6373,7 +6373,7 @@ exists because of the efforts of hundreds of volunteers and donations
 from people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg™'s
+assistance they need are critical to reaching Project Gutenberg™’s
 goals and ensuring that the Project Gutenberg™ collection will
 remain freely available for generations to come. In 2001, the Project
 Gutenberg Literary Archive Foundation was created to provide a secure
@@ -6389,14 +6389,14 @@ Archive Foundation
 The Project Gutenberg Literary Archive Foundation is a non-profit
 501(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
+Revenue Service. The Foundation’s EIN or federal tax identification
 number is 64-6221541. Contributions to the Project Gutenberg Literary
 Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
+U.S. federal laws and your state’s laws.
 
-The Foundation's business office is located at 809 North 1500 West,
+The Foundation’s business office is located at 809 North 1500 West,
 Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation's website
+to date contact information can be found at the Foundation’s website
 and official page at www.gutenberg.org/contact
 
 Section 4. Information about Donations to the Project Gutenberg
